@@ -8,9 +8,11 @@ This provides a implementation of face recognition using Python Language in Real
 Make sure to install the required libraries before running the code:
 
 **pip install face_recognition opencv-python numpy**
+
 Getting Started
 
 1.  Clone the repository to your local machine:
+
 **git clone https://github.com/your-username/real-time-face-recognition.git
 cd real-time-face-recognition**
 
